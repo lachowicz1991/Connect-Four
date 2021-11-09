@@ -1,0 +1,21 @@
+h1{
+  font-family: 'Lobster', cursive;
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+h2{
+  font-family: 'Lobster Two', cursive;
+}
+h3{
+  font-family: 'Lobster Two', cursive;
+  margin-bottom: 10px;
+}
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  margin: 1px;
+  border: 4px solid black;
+  border-radius: 50%;
+}
